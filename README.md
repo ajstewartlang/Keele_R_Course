@@ -4,7 +4,8 @@ Keele R Course 2018
 Andrew.Stewart@manchester.ac.uk
 
 #### Location and Date Information
-TBC
+August 1st/2nd 2018
+Location TBC
 
 <br>
 
