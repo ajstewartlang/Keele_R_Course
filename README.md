@@ -1,5 +1,4 @@
-# Keele R Course
-# Welcome to my 2-day R course!
+# Welcome to my 2-day R course at Keele University
 
 Andrew.Stewart@manchester.ac.uk
 
