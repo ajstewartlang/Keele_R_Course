@@ -1,9 +1,7 @@
-# Keele_R_Course
-Keele R Course 2018
+# Keele R Course
+# Welcome to my 2-day R course!
 
 Andrew.Stewart@manchester.ac.uk
-
-# Welcome to my 2-day R course!
 
 #### Location and Date Information
 August 1st/2nd 2018 <br>
