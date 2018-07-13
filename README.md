@@ -3,10 +3,14 @@ Keele R Course 2018
 
 Andrew.Stewart@manchester.ac.uk
 
+# Welcome to my 2-day R course!
+
 #### Location and Date Information
 August 1st/2nd 2018 <br>
-Location TBC
+Location LJ0.26 (Lennard Jones Building) <br>
 
+Morning Session 1030-1230 <br>
+Afternoon Session 1400-1600 <br>
 <br>
 
 ## Installing R and RStudio
