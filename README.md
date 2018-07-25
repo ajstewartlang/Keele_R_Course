@@ -4,7 +4,7 @@ Andrew.Stewart@manchester.ac.uk
 
 #### Location and Date Information
 August 1st/2nd 2018 <br>
-Location (#### NOTE, NOW CHANGED TO ####) LJ1.27 (Lennard Jones Building) <br>
+Location (*NOTE CHANGE*) LJ1.27 (Lennard Jones Building) <br>
 
 Morning Session 1030-1230 <br>
 Afternoon Session 1400-1600 <br>
