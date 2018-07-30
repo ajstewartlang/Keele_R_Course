@@ -1,6 +1,7 @@
 # Welcome to my 2-day R course at Keele University
 
-Andrew.Stewart@manchester.ac.uk
+Email: Andrew.Stewart@manchester.ac.uk
+Twitter: @ajstewart_lang
 
 #### Location and Date Information
 August 1st/2nd 2018 <br>
